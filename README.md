@@ -1,2 +1,2 @@
 # sbom_export_test
-SBOMのエクスポート機能のテスト
+Created to check GitHub's SBOM export feature
